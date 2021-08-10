@@ -1,0 +1,38 @@
+
+.h1{
+   
+   display: flex;
+   justify-content:  center;
+  
+ 
+}
+.header * {
+   border: solid;
+} 
+
+.header{
+   background-color:#fc2105;
+   display: flex;
+   justify-content:  center;
+   font-size: xxx-large;
+ 
+
+   
+   
+
+}
+
+
+
+
+
+
+p,h2{
+   text-align: center;
+}
+
+body{
+ background-color: darkblue;
+}
+
+
